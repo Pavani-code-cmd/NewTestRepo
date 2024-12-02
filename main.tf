@@ -14,3 +14,4 @@ resource "aws_instance" "example" {
     Name = "MyEC2Instance"
   }
 }
+
